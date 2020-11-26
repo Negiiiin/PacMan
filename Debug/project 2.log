@@ -1,0 +1,15 @@
+﻿  Pacman.cpp
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(201): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(235): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(277): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(285): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(828): warning C4101: 'i': unreferenced local variable
+  main.cpp
+  Generating Code...
+c:\users\baghbanzadeh\desktop\ca1-p2- 810196599\pacman.cpp(817): warning C4715: 'setNextLocation': not all control paths return a value
+  project 2.vcxproj -> C:\Users\Baghbanzadeh\Desktop\CA1-P2- 810196599\Debug\project 2.exe
+  project 2.vcxproj -> C:\Users\Baghbanzadeh\Desktop\CA1-P2- 810196599\Debug\project 2.pdb (Full PDB)
