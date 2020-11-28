@@ -1,7 +1,3 @@
-
-// Negin Baghbanzadeh
-//810196599
-
 #include"Pacman.h"
 #define R 8 // shoae pacman
 #define w 6 // shoae roh

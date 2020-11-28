@@ -1,7 +1,3 @@
-
-// Negin Baghbanzadeh
-//810196599
-
 #pragma once
 #include <windows.h>
 #include <conio.h>
